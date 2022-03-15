@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**felipesacchi/felipesacchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Alelo
+- 🌱 I’m currently learning Computer Science
+- 📫 How to reach me: felipe.sacchi10@gmail.com
+- 🐱‍💻 My linkedin: https://www.linkedin.com/in/felipe-sacchi/
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/felipesacchi/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipesacchi&show_icons=true&theme=dark" />
+  </a>
+  <a href="https://github.com/felipesacchi/convoychat">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesacchi&layout=compact&theme=dark" />
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
