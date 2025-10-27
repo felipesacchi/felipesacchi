@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Alelo
 - 🌱 I’m currently learning Computer Science
 - 📫 How to reach me: felipe.sacchi10@gmail.com
-- 🐱‍💻 My linkedin: https://www.linkedin.com/in/felipe-sacchi/
+- 💻 My linkedin: https://www.linkedin.com/in/felipe-sacchi/
 
 <div>
   <a>
